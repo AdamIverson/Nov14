@@ -1,7 +1,9 @@
 # OSX
 #
 .DS_Store
-
+node_modules
+GoogleService-Info.plist
+debug.keystore
 # Xcode
 #
 build/
